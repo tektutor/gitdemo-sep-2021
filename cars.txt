@@ -1,2 +1,5 @@
 Maruti 800
 VW Polo
+Skoda Kodiaq
+Mahindra Thar
+Mahindra XUV 700
